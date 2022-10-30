@@ -1,0 +1,28 @@
+body{
+	font-family: Arial, sans-serif;
+	background: #FAE341;
+}
+body, a{
+	color: #fff;
+}
+div.bg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+div.bg .txt{
+	width: 400px;
+	height: 600px;
+	margin: auto;
+	text-align: center;
+}
+div.bg .txt h1{
+	font-size: 4em;
+}
+div.bg .txt .logo-img{
+	height: 15em;
+	margin-top: 40%;
+}
